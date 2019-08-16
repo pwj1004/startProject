@@ -7,6 +7,7 @@ public class startTest2 {
 		System.out.println("스타트");
 
 		System.out.println("스타트2");
+		System.out.println("스타트4");
 		
 	}
 
