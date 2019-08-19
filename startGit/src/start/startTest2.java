@@ -11,7 +11,7 @@ public class startTest2 {
 		System.out.println("스타트4.1");
 		System.out.println("스타트5");
 		System.out.println("스타트6");
-		System.out.println("스타트6.1");
+		System.out.println("스타트6.1"); 
 		
 	}
 
